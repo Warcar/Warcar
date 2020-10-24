@@ -1,0 +1,26 @@
+html {
+    line-height: 1.5;
+    text-align: left;
+}
+
+h1 {
+    font-size: 55px;
+    font-weight: bold;
+    color: black;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+main {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    margin-left: 20px;
+}
